@@ -15,3 +15,6 @@ print(di)
 
 dic = dict([("a", 10), ("b", 20)])
 print(dic)
+
+fruits = {"apple": 100, "banana": 200, "orange": 300}
+print(fruits["apple"])
